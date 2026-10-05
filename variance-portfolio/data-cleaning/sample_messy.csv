@@ -1,0 +1,41 @@
+order_id,customer_name,email,phone,city,status,amount,order_date,notes
+ORD-1001,Aisha Reddy,  aisha.r@example.com ,+91 9876500001,Hyderabad,active,₹1037,2025-02-11,
+ORD-1002,  ravi kumar  ,RAVI.K@Example.COM,09876500002, hyderabad ,Active,1222.50,03/03/2025,
+ORD-1003,PRIYA NAIR,priya..nair@demo.co,91-9876500003,HYDERABAD,ACTIVE, 815 ,2025/04/13,
+ORD-1004,Sam Okonkwo,not-an-email,N/A,Secunderabad, inactive ,2004.00,,
+ORD-1005,Lee Chen,,,Bangalore,churned,,32/13/2025,FOLLOW UP
+ORD-1006,  ,sam@variance.demo,  +91-9876500006  ,bengaluru,Churned,-56,2024-12-01,
+ORD-1007,Mohammed Ali,  LEE@Cafe.Demo  ,12345,Mumbai,,Rs.1521,2025-08-17,  rush order  
+ORD-1008,anita desai,,9876543210, mumbai,,"1,250.00",09/09/2025,
+ORD-1009,Aisha Reddy,  aisha.r@example.com ,+91 9876500009,Hyderabad,active,₹1333,2025/10/19,
+ORD-1010,  ravi kumar  ,RAVI.K@Example.COM,09876500010, hyderabad ,Active,1310.50,,FOLLOW UP
+ORD-1011,PRIYA NAIR,priya..nair@demo.co,91-9876500011,HYDERABAD,ACTIVE, 855 ,32/13/2025,
+ORD-1012,Sam Okonkwo,not-an-email,N/A,Secunderabad, inactive ,2012.00,2024-12-01,
+ORD-1013,Lee Chen,,,Bangalore,churned,,2025-05-23,
+ORD-1014,  ,sam@variance.demo,  +91-9876500014  ,bengaluru,Churned,-64,15/06/2025,  rush order  
+ORD-1015,Mohammed Ali,  LEE@Cafe.Demo  ,12345,Mumbai,,Rs.1545,2025/04/10,FOLLOW UP
+ORD-1016,anita desai,,9876543210, mumbai,,"1,250.00",,
+ORD-1017,Aisha Reddy,  aisha.r@example.com ,+91 9876500017,Hyderabad,active,₹1629,32/13/2025,
+ORD-1018,  ravi kumar  ,RAVI.K@Example.COM,09876500018, hyderabad ,Active,1398.50,2024-12-01,
+ORD-1019,PRIYA NAIR,priya..nair@demo.co,91-9876500019,HYDERABAD,ACTIVE, 895 ,2025-02-11,
+ORD-1020,Sam Okonkwo,not-an-email,N/A,Secunderabad, inactive ,2020.00,21/03/2025,FOLLOW UP
+ORD-1021,Lee Chen,,,Bangalore,churned,,2025/10/16,  rush order  
+ORD-1022,  ,sam@variance.demo,  +91-9876500022  ,bengaluru,Churned,-72,,
+ORD-1023,Mohammed Ali,  LEE@Cafe.Demo  ,12345,Mumbai,,Rs.1569,32/13/2025,
+ORD-1024,anita desai,,9876543210, mumbai,,"1,250.00",2024-12-01,
+ORD-1025,Aisha Reddy,  aisha.r@example.com ,+91 9876500025,Hyderabad,active,₹1925,2025-08-17,FOLLOW UP
+ORD-1026,  ravi kumar  ,RAVI.K@Example.COM,09876500026, hyderabad ,Active,1486.50,27/09/2025,
+ORD-1027,PRIYA NAIR,priya..nair@demo.co,91-9876500027,HYDERABAD,ACTIVE, 935 ,2025/04/22,
+ORD-1028,Sam Okonkwo,not-an-email,N/A,Secunderabad, inactive ,2028.00,,  rush order  
+ORD-1029,Lee Chen,,,Bangalore,churned,,32/13/2025,
+ORD-1030,  ,sam@variance.demo,  +91-9876500030  ,bengaluru,Churned,-80,2024-12-01,FOLLOW UP
+ORD-1031,Mohammed Ali,  LEE@Cafe.Demo  ,12345,Mumbai,,Rs.1593,2025-05-23,
+ORD-1032,anita desai,,9876543210, mumbai,,"1,250.00",05/06/2025,
+ORD-1033,Aisha Reddy,  aisha.r@example.com ,+91 9876500033,Hyderabad,active,₹2221,2025/10/13,
+ORD-1034,  ravi kumar  ,RAVI.K@Example.COM,09876500034, hyderabad ,Active,1574.50,,
+ORD-1000,PRIYA NAIR,priya..nair@demo.co,91-9876500035,HYDERABAD,ACTIVE, 975 ,32/13/2025,  rush order  
+ORD-1001,Sam Okonkwo,not-an-email,N/A,Secunderabad, inactive ,2036.00,2024-12-01,
+ORD-1002,Lee Chen,,,Bangalore,churned,,2025-02-11,
+ORD-1003,  ,sam@variance.demo,  +91-9876500038  ,bengaluru,Churned,-88,11/03/2025,
+ORD-1004,Mohammed Ali,  LEE@Cafe.Demo  ,12345,Mumbai,,Rs.1617,2025/04/19,
+ORD-1005,anita desai,,9876543210, mumbai,,"1,250.00",,FOLLOW UP
