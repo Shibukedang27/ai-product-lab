@@ -22,3 +22,15 @@ cd data-cleaning && python3 clean.py
 ```
 
 Each subfolder has its own README with deploy notes (static host for the two web demos).
+
+## GitHub
+
+Live in the public repo: [Shibukedang27/ai-product-lab](https://github.com/Shibukedang27/ai-product-lab) under [`variance-portfolio/`](https://github.com/Shibukedang27/ai-product-lab/tree/main/variance-portfolio).
+
+| Demo | Browse | Raw HTML |
+|------|--------|----------|
+| Landing | [blob](https://github.com/Shibukedang27/ai-product-lab/blob/main/variance-portfolio/variance-landing/index.html) | [raw](https://raw.githubusercontent.com/Shibukedang27/ai-product-lab/main/variance-portfolio/variance-landing/index.html) |
+| FAQ chatbot | [blob](https://github.com/Shibukedang27/ai-product-lab/blob/main/variance-portfolio/faq-chatbot/index.html) | [raw](https://raw.githubusercontent.com/Shibukedang27/ai-product-lab/main/variance-portfolio/faq-chatbot/index.html) |
+
+> Tip: raw HTML won’t run linked CSS/JS from `raw.githubusercontent.com`. Use the blob pages to share, or enable GitHub Pages / open the folder locally. For a single-file preview you can use something like `https://htmlpreview.github.io/?https://github.com/Shibukedang27/ai-product-lab/blob/main/variance-portfolio/variance-landing/index.html`.
+
