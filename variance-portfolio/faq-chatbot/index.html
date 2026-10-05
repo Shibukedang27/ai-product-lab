@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FAQ Chatbot Demo — Variance</title>
+  <meta name="description" content="Embeddable FAQ chatbot widget demo for Roast Lane Café. Built by Variance." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="demo-page">
+    <header class="demo-header">
+      <p class="badge">Variance portfolio demo</p>
+      <h1>FAQ chatbot widget</h1>
+      <p>
+        Sample embed for <strong>Roast Lane Café</strong>. Click the chat button (bottom-right)
+        to ask about hours, pricing, and contact — or leave your details for a callback.
+      </p>
+      <ul class="tips">
+        <li>Try: “What are your hours?”</li>
+        <li>Try: “How much is filter coffee?”</li>
+        <li>Try: “How do I contact you?”</li>
+      </ul>
+    </header>
+
+    <section class="demo-preview" aria-label="Fake host page">
+      <div class="fake-site">
+        <div class="fake-bar"></div>
+        <div class="fake-hero">
+          <h2>Roast Lane Café</h2>
+          <p>Specialty coffee · Jubilee Hills</p>
+        </div>
+        <div class="fake-lines">
+          <span></span><span></span><span></span>
+        </div>
+      </div>
+      <p class="hint">Host page mockup — the widget floats above any site you embed it on.</p>
+    </section>
+  </main>
+
+  <footer class="demo-footer">
+    <p>Built by <strong>Variance</strong> · No backend · Lead capture logs to console</p>
+  </footer>
+
+  <!-- Embeddable widget root + assets -->
+  <div id="variance-faq-root"></div>
+  <script src="chatbot.js"></script>
+  <script>
+    VarianceFAQ.init({
+      brand: "Roast Lane Café",
+      subtitle: "Ask us anything",
+      accent: "#c45c26",
+      welcome: "Hi! I’m the Roast Lane helper. Ask about hours, menu prices, or how to reach us — or leave your name and email and we’ll get back to you.",
+    });
+  </script>
+</body>
+</html>
