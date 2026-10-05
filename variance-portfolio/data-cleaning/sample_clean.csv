@@ -1,0 +1,36 @@
+order_id,customer_name,email,phone,city,status,amount,order_date,notes
+ORD-1001,Sam Okonkwo,,,Secunderabad,inactive,2036.00,2024-12-01,
+ORD-1002,Lee Chen,,,Bengaluru,churned,,2025-02-11,
+ORD-1003,,sam@variance.demo,+91 9876500038,Bengaluru,churned,,2025-03-11,
+ORD-1004,Mohammed Ali,lee@cafe.demo,,Mumbai,,1617.00,2025-04-19,
+ORD-1005,Anita Desai,,+91 9876543210,Mumbai,,1250.00,,follow up
+ORD-1006,,sam@variance.demo,+91 9876500006,Bengaluru,churned,,2024-12-01,
+ORD-1007,Mohammed Ali,lee@cafe.demo,,Mumbai,,1521.00,2025-08-17,rush order
+ORD-1008,Anita Desai,,+91 9876543210,Mumbai,,1250.00,2025-09-09,
+ORD-1009,Aisha Reddy,aisha.r@example.com,+91 9876500009,Hyderabad,active,1333.00,2025-10-19,
+ORD-1010,Ravi Kumar,ravi.k@example.com,+91 9876500010,Hyderabad,active,1310.50,,follow up
+ORD-1011,Priya Nair,priya.nair@demo.co,+91 9876500011,Hyderabad,active,855.00,,
+ORD-1012,Sam Okonkwo,,,Secunderabad,inactive,2012.00,2024-12-01,
+ORD-1013,Lee Chen,,,Bengaluru,churned,,2025-05-23,
+ORD-1014,,sam@variance.demo,+91 9876500014,Bengaluru,churned,,2025-06-15,rush order
+ORD-1015,Mohammed Ali,lee@cafe.demo,,Mumbai,,1545.00,2025-04-10,follow up
+ORD-1016,Anita Desai,,+91 9876543210,Mumbai,,1250.00,,
+ORD-1017,Aisha Reddy,aisha.r@example.com,+91 9876500017,Hyderabad,active,1629.00,,
+ORD-1018,Ravi Kumar,ravi.k@example.com,+91 9876500018,Hyderabad,active,1398.50,2024-12-01,
+ORD-1019,Priya Nair,priya.nair@demo.co,+91 9876500019,Hyderabad,active,895.00,2025-02-11,
+ORD-1020,Sam Okonkwo,,,Secunderabad,inactive,2020.00,2025-03-21,follow up
+ORD-1021,Lee Chen,,,Bengaluru,churned,,2025-10-16,rush order
+ORD-1022,,sam@variance.demo,+91 9876500022,Bengaluru,churned,,,
+ORD-1023,Mohammed Ali,lee@cafe.demo,,Mumbai,,1569.00,,
+ORD-1024,Anita Desai,,+91 9876543210,Mumbai,,1250.00,2024-12-01,
+ORD-1025,Aisha Reddy,aisha.r@example.com,+91 9876500025,Hyderabad,active,1925.00,2025-08-17,follow up
+ORD-1026,Ravi Kumar,ravi.k@example.com,+91 9876500026,Hyderabad,active,1486.50,2025-09-27,
+ORD-1027,Priya Nair,priya.nair@demo.co,+91 9876500027,Hyderabad,active,935.00,2025-04-22,
+ORD-1028,Sam Okonkwo,,,Secunderabad,inactive,2028.00,,rush order
+ORD-1029,Lee Chen,,,Bengaluru,churned,,,
+ORD-1030,,sam@variance.demo,+91 9876500030,Bengaluru,churned,,2024-12-01,follow up
+ORD-1031,Mohammed Ali,lee@cafe.demo,,Mumbai,,1593.00,2025-05-23,
+ORD-1032,Anita Desai,,+91 9876543210,Mumbai,,1250.00,2025-06-05,
+ORD-1033,Aisha Reddy,aisha.r@example.com,+91 9876500033,Hyderabad,active,2221.00,2025-10-13,
+ORD-1034,Ravi Kumar,ravi.k@example.com,+91 9876500034,Hyderabad,active,1574.50,,
+ORD-1000,Priya Nair,priya.nair@demo.co,+91 9876500035,Hyderabad,active,975.00,,rush order
