@@ -1,0 +1,10 @@
+{
+  "scenario_id": "AUTHZ-001",
+  "findings": [
+    {
+      "finding_id": "AUTHZ-MISSING-OWNERSHIP-CHECK",
+      "severity": "high",
+      "evidence": "The scenario explicitly states that the handler loads a record without checking whether the authenticated user owns it."
+    }
+  ]
+}
